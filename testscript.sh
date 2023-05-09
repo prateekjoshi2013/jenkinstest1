@@ -4,5 +4,5 @@ echo "this is running in a build step"
 echo "this is a param $PASSED"
 NUM=$(( $FIRSTNUMBER + $SECONDNUMBER))
 echo $NUM
-echo "added the new line to create new commit"
+echo "my new line"
 # sample script to test jenkins server
