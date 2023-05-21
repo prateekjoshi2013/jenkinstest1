@@ -5,4 +5,5 @@ echo "this is a param $PASSED"
 NUM=$(( $FIRSTNUMBER + $SECONDNUMBER))
 echo $NUM
 echo "my new line"
+echo "my new line2"
 # sample script to test jenkins server
